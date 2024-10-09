@@ -1,6 +1,6 @@
 import React from "react";
 
-import pic from "../../public/Web.png";
+import pic from "../../public/web.png";
 import { FaSquareFacebook } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { FaTelegram } from "react-icons/fa6";
