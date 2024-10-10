@@ -15,7 +15,7 @@ function Projects() {
           <div className="bg-white p-6 rounded-lg shadow-lg">
             <h4 className="text-lg font-bold mb-2">Blog App</h4>
             <p className="mb-4">
-              A comprehensive blog application built using Spring Boot, allowing users to create, edit, and manage blog posts efficiently.
+              A comprehensive blog application built using Django, allowing users to create, edit, and manage blog posts efficiently.
             </p>
             <p className="font-bold">Tech Stack: </p>
             <p>Django, MySQL</p>

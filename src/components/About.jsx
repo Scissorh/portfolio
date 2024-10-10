@@ -9,16 +9,15 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Murad, a passionate software developer skilled in full-stack development with expertise in Java, Spring Boot, React, and Django. With an MCA degree from AKTU University, I focus on delivering efficient and scalable web solutions tailored to client needs.
+          Hello, I'm Sakib, a passionate software developer skilled in full-stack development with expertise in Java, Spring Boot, React, and Django. With an MCA degree from AKTU University, I focus on delivering efficient and scalable web solutions tailored to client needs.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Education & Training
         </h1>
         <span>
-          Master of Computer Applications (MCA), AKTU University, 2023
-          Bachelor's in [Relevant Field], [Institution], [Year]
-          Full-Stack Web Development, [Online Platform/Institution], [Year]
+          Master of Computer Applications (MCA), AKTU University, 2024
+          Bachelor's in Computer Applications (BCA), CCSU, 2022
         </span>
         <br />
         <br />
